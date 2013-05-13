@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jAVAMail"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JCOMMON1.0.16"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jfreeChart"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/WEKA"/>
+	<classpathentry kind="lib" path="C:/MyJavaLib/Synthetica/syntheticaBlueLight.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/workspace/Application de détection d&apos;une zone d&apos;intérêt/synthetica.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
